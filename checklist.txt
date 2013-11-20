@@ -1,0 +1,69 @@
+CHECKLIST FOR FORMAL REPORT (see Figure 11.15 [289-302])
+
+1.	Transmittal memo—if reader works for the same organization or Cover letter—if reader works for another organization
+	•	Often works as a brief summary of main point with some reference to the problem and method / criteria
+	•	Should directly refer reader to report
+	•	Pleasant language, more personal than report
+	•	Single spaced
+3.	Contents page (or Table of Contents)
+	•	Wording exactly the same as headings (use informative headings) in body
+	•	Appendix and sources listed
+4.	Executive Summary—a fully developed “mini” version of the report—for readers who lack the time or motivation to read the entire document. The “big picture.”
+	•	Brief presentation of problem, method/criteria, and main points (see Figure 11.5 [292])
+	•	Single spaced
+5.	Body—6-10 pages double spaced
+	•	Title repeated
+	•	Use informative headings
+	•	Introduction gives more information on problem and method / criteria in slightly more formal language than in the transmittal memo or cover letter
+	•	Introduction ends with main point
+	•	Refer to appendix in introduction
+	•	Logical organization—use informative headings (and subheadings, if needed)
+	•	Material presented objectively with “I” used for what you did not for what you believe
+	•	Clear direct style with active verbs and consistent verb tense
+	•	Carefully proofread for conciseness and mechanics
+	•	Number pages, using Arabic numerals (0, 1, 2, 3 . . .), beginning with page 1
+	•	Illustrations included as soon as possible after reference to illustration within the text (preferably the same page)
+	•	All illustrations (graphs, tables, etc.) labeled and cited if not original
+6.	Appendix—supplemental material, raw data
+	•	Cover letter needed if questionnaire was sent in mail (or email message)
+	•	Tallies and explanations given for questionnaires
+7.	Sources
+	•	Bibliography following APA or MLA guidelines exactly
+	•	Must include any source cited or referred to
+====================
+CHECKLIST FOR FORMAL REPORT (see Figure 11.15 [289-302])
+
+1.	Transmittal memo—if reader works for the same organization or Cover letter—if reader works for another organization
+	•	Often works as a brief summary of main point with some reference to the problem and method / criteria
+	•	Should directly refer reader to report
+	•	Pleasant language, more personal than report
+	•	Single spaced
+2.	Title page (direct title, person or company for whom report was written, your name and identification, date—attractively layout. Title fly can be omitted.
+3.	Contents page (or Table of Contents)
+	•	Wording exactly the same as headings (use informative headings) in body
+	•	Appendix and sources listed
+	•	Figures, Tables, Images under List of Illustrations 
+	•	Alternating dots lined up and numbers lined up
+	•	Page number bottom center, beginning with Roman numeral iii
+4.	Executive Summary—a fully developed “mini” version of the report—for readers who lack the time or motivation to read the entire document. The “big picture.”
+	•	Brief presentation of problem, method/criteria, and main points (see Figure 11.5 [292])
+	•	Single spaced
+5.	Body—6-10 pages double spaced
+	•	Title repeated
+	•	Use informative headings
+	•	Introduction gives more information on problem and method / criteria in slightly more formal language than in the transmittal memo or cover letter
+	•	Introduction ends with main point
+	•	Refer to appendix in introduction
+	•	Logical organization—use informative headings (and subheadings, if needed)
+	•	Material presented objectively with “I” used for what you did not for what you believe
+	•	Clear direct style with active verbs and consistent verb tense
+	•	Carefully proofread for conciseness and mechanics
+	•	Number pages, using Arabic numerals (0, 1, 2, 3 . . .), beginning with page 1
+	•	Illustrations included as soon as possible after reference to illustration within the text (preferably the same page)
+	•	All illustrations (graphs, tables, etc.) labeled and cited if not original
+6.	Appendix—supplemental material, raw data
+	•	Cover letter needed if questionnaire was sent in mail (or email message)
+	•	Tallies and explanations given for questionnaires
+7.	Sources
+	•	Bibliography following APA or MLA guidelines exactly
+	•	Must include any source cited or referred to
